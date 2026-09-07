@@ -1,0 +1,5 @@
+import { ChevronDown } from 'lucide-react'
+import type { GeographicOption } from '../../config/states'
+
+interface Props { label: string; options: GeographicOption[]; value: string; onChange: (value: string) => void }
+export function StateSelector({ label, options, value, onChange }: Props) { return <label className="relative block w-full max-w-sm"><span className="mb-1.5 block text-[10px] font-semibold uppercase tracking-[0.14em] text-slate-500">{label}</span><select aria-label={`Select ${label.toLowerCase()}`} value={value} onChange={(event) => onChange(event.target.value)} className="w-full appearance-none border border-[#d9dcd7] bg-[#fffefa] px-4 py-3 pr-10 text-sm font-medium text-[#172033] shadow-[0_1px_3px_rgba(23,32,51,.04)] outline-none transition-colors focus:border-[#b77b12]">{options.map((option) => <option key={option.id} value={option.id}>{option.name}</option>)}</select><ChevronDown size={18} className="pointer-events-none absolute bottom-3 right-3 text-[#8a620f]" /></label> }

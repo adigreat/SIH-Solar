@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.78,
+          20.005
+        ]
+      },
+      "properties": {
+        "id": "V001",
+        "name": "Village A",
+        "district": "Nashik",
+        "population": 1240,
+        "grid_distance_km": 3.2,
+        "investment_score": 30.820610687022903,
+        "annual_generation_mwh": 1374.148,
+        "roi_percent": 254.61704398097632,
+        "payback_years": 7,
+        "rank": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.81,
+          20.025
+        ]
+      },
+      "properties": {
+        "id": "V002",
+        "name": "Village B",
+        "district": "Nashik",
+        "population": 830,
+        "grid_distance_km": 5.8,
+        "investment_score": 26.85114503816793,
+        "annual_generation_mwh": 1374.148,
+        "roi_percent": 254.61704398097632,
+        "payback_years": 7,
+        "rank": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.85,
+          20.055
+        ]
+      },
+      "properties": {
+        "id": "V003",
+        "name": "Village C",
+        "district": "Nashik",
+        "population": 2100,
+        "grid_distance_km": 2.1,
+        "investment_score": 32.5,
+        "annual_generation_mwh": 1374.148,
+        "roi_percent": 254.61704398097632,
+        "payback_years": 7,
+        "rank": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.88,
+          20.09
+        ]
+      },
+      "properties": {
+        "id": "V004",
+        "name": "Village D",
+        "district": "Nashik",
+        "population": 620,
+        "grid_distance_km": 12.4,
+        "investment_score": 16.77480916030534,
+        "annual_generation_mwh": 1374.148,
+        "roi_percent": 254.61704398097632,
+        "payback_years": 7,
+        "rank": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.92,
+          20.12
+        ]
+      },
+      "properties": {
+        "id": "V005",
+        "name": "Village E",
+        "district": "Nashik",
+        "population": 1750,
+        "grid_distance_km": 4.5,
+        "investment_score": 28.83587786259542,
+        "annual_generation_mwh": 1374.148,
+        "roi_percent": 254.61704398097632,
+        "payback_years": 7,
+        "rank": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.95,
+          20.15
+        ]
+      },
+      "properties": {
+        "id": "V006",
+        "name": "Village F",
+        "district": "Nashik",
+        "population": 950,
+        "grid_distance_km": 8.1,
+        "investment_score": 23.33969465648855,
+        "annual_generation_mwh": 1374.148,
+        "roi_percent": 254.61704398097632,
+        "payback_years": 7,
+        "rank": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98,
+          20.18
+        ]
+      },
+      "properties": {
+        "id": "V007",
+        "name": "Village G",
+        "district": "Nashik",
+        "population": 3200,
+        "grid_distance_km": 2.8,
+        "investment_score": 31.431297709923665,
+        "annual_generation_mwh": 1374.148,
+        "roi_percent": 254.61704398097632,
+        "payback_years": 7,
+        "rank": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.01,
+          20.21
+        ]
+      },
+      "properties": {
+        "id": "V008",
+        "name": "Village H",
+        "district": "Nashik",
+        "population": 450,
+        "grid_distance_km": 15.2,
+        "investment_score": 67.5,
+        "annual_generation_mwh": 1410.76736,
+        "roi_percent": 265.3995922914023,
+        "payback_years": 7,
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.04,
+          20.24
+        ]
+      },
+      "properties": {
+        "id": "V009",
+        "name": "Village I",
+        "district": "Nashik",
+        "population": 1450,
+        "grid_distance_km": 6.0,
+        "investment_score": 81.54580152671755,
+        "annual_generation_mwh": 1410.76736,
+        "roi_percent": 265.3995922914023,
+        "payback_years": 7,
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.07,
+          20.27
+        ]
+      },
+      "properties": {
+        "id": "V010",
+        "name": "Village J",
+        "district": "Nashik",
+        "population": 2700,
+        "grid_distance_km": 3.7,
+        "investment_score": 85.05725190839695,
+        "annual_generation_mwh": 1410.76736,
+        "roi_percent": 265.3995922914023,
+        "payback_years": 7,
+        "rank": 1
+      }
+    }
+  ]
+}
+
